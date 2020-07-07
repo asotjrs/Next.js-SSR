@@ -4,6 +4,7 @@ const Index=()=>{
 
  return <div><h1> it's workiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiing'</h1>
      <Link href={'/about'}><a>The About Page</a></Link>
+     <Link href={'/robots'}><a>Robots</a></Link>
     <Image/>
  </div>
 
